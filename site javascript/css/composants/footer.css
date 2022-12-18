@@ -1,0 +1,44 @@
+.footer {
+    width: auto;
+    height: 80px;
+    background-color: #333;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: left;
+    padding: 0 20px;
+  }
+  
+  .footer p {
+    margin: 10%;
+    font-size: 14px;
+  }
+  
+  .footer nav {
+    display: flex;
+    margin-left: 20%;
+  }
+  
+  .footer nav a {
+    color: #fff;
+    text-decoration: none;
+    margin-left: 20px;
+  }
+
+
+.adresse{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    color: whitesmoke;
+    width: 20%;
+}
+
+.linkedIn{
+    margin-top: 5%;
+    margin-bottom: 5%;
+    width: 20%;
+}
+
+.linkedIn:hover{
+    color: rgb(0, 171, 179);
+}
